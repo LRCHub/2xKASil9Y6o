@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "もう、おはなしは、いらないの。/アメリカ民謡研究会",
+  "base_artist": "アメリカ民謡研究会",
+  "createdAt": "2026-03-18T15:50:31.443020Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もう、おはなしは、いらないの。",
+      "artist": "アメリカ民謡研究会",
+      "has_synced": false,
+      "path": "select/pl_01_もう、おはなしは、いらないの。_アメリカ民謡研究会.txt"
+    }
+  ]
+}
